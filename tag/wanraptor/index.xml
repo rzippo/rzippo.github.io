@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wanraptor | Academic</title>
+    <link>/tag/wanraptor/</link>
+      <atom:link href="/tag/wanraptor/index.xml" rel="self" type="application/rss+xml" />
+    <description>wanraptor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2020 15:47:08 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>wanraptor</title>
+      <link>/tag/wanraptor/</link>
+    </image>
+    
+    <item>
+      <title>WanRaptor</title>
+      <link>/project/wanraptor/</link>
+      <pubDate>Wed, 24 Jun 2020 15:47:08 +0200</pubDate>
+      <guid>/project/wanraptor/</guid>
+      <description>&lt;p&gt;WanRaptor is my first job as a Software Engineer and Project Manager with a big enterprise.&lt;/p&gt;
+&lt;p&gt;The WanRaptor is an embedded system used to validate an application in a lab environment by emulating bandwidth limitations, latency, packets loss and jitter commonly found in WANs.&lt;/p&gt;
+&lt;p&gt;The project involved the development from the ground up of the full-stack Graphical User Interface, including management of hardware resources, installation, secure licensing and user interaction.&lt;/p&gt;
+&lt;p&gt;The WanRaptor is widely used in many laboratories all over United States and further.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

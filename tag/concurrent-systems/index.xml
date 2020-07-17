@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>concurrent systems | Academic</title>
+    <link>/tag/concurrent-systems/</link>
+      <atom:link href="/tag/concurrent-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>concurrent systems</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2020 15:46:57 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>concurrent systems</title>
+      <link>/tag/concurrent-systems/</link>
+    </image>
+    
+    <item>
+      <title>Lockstep Library</title>
+      <link>/project/lockstep-library/</link>
+      <pubDate>Wed, 24 Jun 2020 15:46:57 +0200</pubDate>
+      <guid>/project/lockstep-library/</guid>
+      <description>&lt;p&gt;This library was developed as group project for Concurrent and Distributed Systems course.&lt;/p&gt;
+&lt;p&gt;The idea behind this project was to implement first-hand a synchronization layer like most multiplayer games use nowadays. The simulation (game) in object is collaborative effort where multiple clients generate inputs that drive it. The synchronization layer has to guarantee that each client processes inputs in the correct order so that everyone has a consistent view of the simulation, without ever sharing its state directly.&lt;/p&gt;
+&lt;p&gt;We chose to implement the most strict version of lockstep, which doesn&amp;rsquo;t allow for the simulation to go on speculatively in case of delays, contrary to most games. We also chose the client-server structure, which should give the lowest delay in most cases. In order to make the library as generic as possible, we chose to use Java Serialization for marshalling/unmarshalling. This gives a huge overhead in terms of bandwidth, and should be reconsidered given the specific application needs.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-client-structure&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/lockstep-library/featured_hudad196ad72a610935122c69fb1f6c933_37697_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Client Structure&#34;&gt;
+
+
+  &lt;img data-src=&#34;/project/lockstep-library/featured_hudad196ad72a610935122c69fb1f6c933_37697_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;811&#34; height=&#34;561&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Client Structure
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-server-structure&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/lockstep-library/server_hu65cca0095768a98fecaf5ac0150b7e6f_44481_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Server Structure&#34;&gt;
+
+
+  &lt;img data-src=&#34;/project/lockstep-library/server_hu65cca0095768a98fecaf5ac0150b7e6f_44481_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1001&#34; height=&#34;402&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Server Structure
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

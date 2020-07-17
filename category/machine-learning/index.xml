@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Academic</title>
+    <link>/category/machine-learning/</link>
+      <atom:link href="/category/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2020 15:47:45 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Machine Learning</title>
+      <link>/category/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Face Recognition App</title>
+      <link>/project/facerecognition/</link>
+      <pubDate>Wed, 24 Jun 2020 15:47:45 +0200</pubDate>
+      <guid>/project/facerecognition/</guid>
+      <description>&lt;p&gt;This Android app performs face recognition and identification through the smartphone&amp;rsquo;s camera. The app uses an internal database containing the known identities, including sample photos. The app allows the user to check the database content, delete or add new identities.&lt;/p&gt;
+&lt;p&gt;Face Detection is powered by Haar Cascade Classifier. Face Feature are extracted by VGG2 trained on VGGFace2.&lt;/p&gt;
+&lt;p&gt;Classification is performed by weighted kNN on the extracted face features.&lt;/p&gt;
+&lt;p&gt;Data processing is powered by OpenCV for Java.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
