@@ -3,11 +3,11 @@
 
 <svg
    width="512"
-   height="512"
-   viewBox="0 0 512 512"
+   height="440"
+   viewBox="0 0 512 440"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2-beta (1b65182ce9, 2022-04-05)"
    sodipodi:docname="min-plus.svg"
    inkscape:export-filename="C:\GitHub\nancy-docs\static\img\min-plus.png"
    inkscape:export-xdpi="61.93"
@@ -27,15 +27,16 @@
      inkscape:pagecheckerboard="1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.4042969"
-     inkscape:cx="217.90264"
-     inkscape:cy="275.9388"
+     inkscape:zoom="0.99298786"
+     inkscape:cx="-55.388391"
+     inkscape:cy="415.41293"
      inkscape:window-width="1920"
      inkscape:window-height="1121"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4" />
+     inkscape:current-layer="layer5"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <linearGradient
@@ -51,22 +52,22 @@
          id="stop1362" />
     </linearGradient>
     <rect
-       x="55.543811"
-       y="51.98331"
+       x="55.543812"
+       y="51.983311"
        width="308.33936"
        height="102.54242"
        id="rect126998" />
     <rect
-       x="37.741307"
-       y="37.741307"
-       width="452.18358"
-       height="288.40056"
+       x="37.741306"
+       y="37.741306"
+       width="452.18359"
+       height="288.40057"
        id="rect10328" />
     <rect
        x="44.862309"
        y="71.210014"
        width="161.64673"
-       height="163.07093"
+       height="163.07092"
        id="rect3136" />
     <rect
        x="37.741306"
@@ -77,7 +78,7 @@
     <rect
        x="37.741306"
        y="37.741306"
-       width="348.92907"
+       width="348.92908"
        height="247.09875"
        id="rect10328-2" />
     <rect
@@ -87,7 +88,7 @@
        height="239.97775"
        id="rect10328-21" />
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter9729"
        x="-0.089600601"
@@ -123,7 +124,7 @@
          id="feComposite9727" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter9777"
        x="-0.099999998"
@@ -160,7 +161,7 @@
          id="feComposite9775" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter931"
        x="-0.089600601"
@@ -205,7 +206,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="whiteboard">
+     inkscape:label="whiteboard"
+     transform="translate(0,-45.059804)">
     <path
        style="mix-blend-mode:multiply;fill:#f7f7f7;fill-opacity:1;stroke:#808080;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter9777)"
        d="M 26.652295,91.059805 H 286.6523 V 251.0598 H 26.652295 Z"
@@ -216,7 +218,8 @@
      inkscape:label="formula"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:none">
+     style="display:none"
+     transform="translate(0,-45.059804)">
     <text
        xml:space="preserve"
        id="text3134"
@@ -228,7 +231,7 @@
        transform="translate(9.9694034,100.40612)"><tspan
          x="37.742188"
          y="96.486626"
-         id="tspan965">(f⊗g)⊘h</tspan></text>
+         id="tspan951">(f⊗g)⊘h</tspan></text>
     <text
        xml:space="preserve"
        id="text10326-8"
@@ -253,7 +256,8 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="formula-path"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,-45.059804)">
     <g
        aria-label="(f⊗g)⊘h"
        transform="translate(-1.4255188,94.45643)"
@@ -285,7 +289,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="arrow">
+     inkscape:label="arrow"
+     transform="translate(0,-45.059804)">
     <path
        d="m 147.88083,345.78796 c 0.15638,-0.0625 0.38313,-0.17984 0.50824,-0.27367 0.46132,-0.33622 26.13916,-26.10007 26.27209,-26.36592 0.17984,-0.35186 0.18766,-1.11812 0.0156,-1.48562 -0.0626,-0.14856 -3.37003,-4.16757 -7.34212,-8.92157 -3.97209,-4.75399 -9.60182,-11.49404 -12.5027,-14.97352 -2.90087,-3.47949 -5.48899,-6.56803 -5.7392,-6.86515 -0.58643,-0.68026 -1.11031,-0.95393 -1.70456,-0.88356 -0.53169,0.0625 -0.9852,0.33622 -1.2745,0.75845 l -0.23458,0.35186 -0.0234,9.11704 -0.0156,9.11704 -0.60989,0.13293 c -2.56466,0.53951 -6.40382,0.90701 -9.51581,0.90701 -13.04222,-0.008 -25.27907,-4.64453 -35.61589,-13.4879 -8.350772,-7.14664 -15.614694,-17.13942 -21.392997,-29.46227 -0.91483,-1.95478 -1.17286,-2.25972 -2.00168,-2.36918 -0.5317,-0.0704 -0.98521,0.0938 -1.39962,0.50823 -0.57861,0.5708 -0.60206,0.74282 -0.35186,2.70541 2.00169,15.50522 6.505483,28.71945 13.206423,38.74351 4.464702,6.66967 9.867682,12.0101 16.240224,16.04474 7.22483,4.57416 15.72416,7.40466 24.94285,8.31168 2.32227,0.22675 3.78443,0.2893 6.56802,0.2893 3.46385,-0.008 6.25526,-0.18766 9.04667,-0.59425 l 0.64899,-0.0938 0.0156,8.84338 c 0.0235,8.05364 0.0313,8.85901 0.15639,9.07012 0.1642,0.30495 0.50823,0.64899 0.78972,0.79755 0.32058,0.1642 0.97739,0.2033 1.31361,0.0782 z"
        id="path856"
@@ -295,7 +300,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="code"
-     style="display:none">
+     style="display:none"
+     transform="translate(0,-45.059804)">
     <image
        width="267.85535"
        height="180.53452"
@@ -309,7 +315,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="code 2">
+     inkscape:label="code 2"
+     transform="translate(0,-45.059804)">
     <image
        width="267.85535"
        height="181.07022"
